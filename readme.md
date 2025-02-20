@@ -1,4 +1,4 @@
-##Explicação dos Comentários
+###Explicação dos Comentários
 
 #server.js
 - Bibliotecas e Configuração Inicial: Carrega as bibliotecas necessárias e define a chave secreta para JWT.
